@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{730FC74F-A917-4F36-A289-56A4267F3522}</ProjectGuid>
-    <RootNamespace>scanmodel</RootNamespace>
+    <ProjectGuid>{90B1BA9B-439A-4E40-9608-D3ABE2837919}</ProjectGuid>
+    <RootNamespace>mapmodel</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
